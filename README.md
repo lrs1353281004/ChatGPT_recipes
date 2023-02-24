@@ -96,6 +96,7 @@
 | [爆火的ChatGPT太强了！写代码、改bug，网友：可取代Stack Overflow了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650862824&idx=1&sn=dcd398c0ee07bd879be4981e8b181fb2&chksm=84e53096b392b980003852d1ecddb3ab7de3821549d0743bc37e7622ff4ba972cb553e22e240&scene=21#wechat_redirect) | 机器之心公众号 | 2022\-12\-05 | ChatGPT 具备与**编程相关**的基础知识，可以帮你写代码，还能修改代码中bug。 | ⭐⭐⭐ | ❗ | |
 
 ## 行业规范与法律法规
+>ChatGPT使用中应遵循的行业规范以及潜在的法律风险
 
 |资料链接|来源|发布时间点|内容概述|整体推荐指数|技术难度指数|备注|
 | :-----| :-----| :-----| :-----| :-----| :-----| :-----|
