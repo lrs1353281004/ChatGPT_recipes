@@ -58,6 +58,17 @@
 ## 行业趋势
 |资料链接|来源|发布时间点|内容概述|整体推荐指数|技术难度指数|备注|
 | :-----| :-----| :-----| :-----| :-----| :-----| :-----|
+|[万字长文，AI产品经理视角的ChatGPT全解析](https://mp.weixin.qq.com/s/InqfLtzX8F5bQnEwOp3vaA)|做产品的马丁|2023\-02\-11|一个AI产品经理出品的**ChatGPT深度解析文章**，包括技术原理、应用场景趋势的分析，以及从**AI产品经理视角的应对和思考**。|⭐⭐⭐⭐⭐|❗❗||
+|[【安安访谈录】思必驰联合创始人俞凯：ChatGPT是继Alpha Go之后最大的里程碑](https://mp.weixin.qq.com/s/qhvfI6xNXzSMnUlAJLIj8Q)|安安访谈录|2023\-02\-10|对**思必驰俞凯**的访谈，谈及思必驰在**大模型**方面的**积累和规划**，谈及国内外的相关技术布局以及AIGC的未来的挑战。|⭐⭐⭐⭐|❗❗||
+|[ChatGPT背后的经济账](https://mp.weixin.qq.com/s/aAg1ptEkQ6ahdjs-3s_g3A)| OneFlow公众号|2023\-02\-07|从经济学切入，对类ChatGPT模型搜索、训练GPT3以及绘制**大语言模型成本**轨迹的通用框架进行了**量化分析**，为探讨大语言模型成本结构和其未来发展提供了非常有价值的参考视角。|⭐⭐⭐⭐|❗❗❗||
+|[浅谈AIGC商业化（四千字长文）](https://mp.weixin.qq.com/s/HeAmy169U7O6QEM5pWtfQQ)|AIGC产品说公众号|2023\-02\-08|从**产品经理**的角度，讲述下**AIGC**的技术和商业化现状，以及对未来发展前景的展望。|⭐⭐⭐|❗||
+|[ChatGPT 真能抢走你的饭碗？我帮你问了律师、编剧、程序员。。。](https://mp.weixin.qq.com/s/7jX7ACiJScFdjpBvlyNTPQ)|差评公众号|2023\-02\-13|与各行业从业人员的讨论，ChatGPT在**各行业**的**能力边界**在哪里？对于律师、编剧、程序员等行业人员会有怎么样的冲击？|⭐⭐⭐|❗||
+|[Google搜索被Chatgpt颠覆的可能性](https://blockcast.it/2023/02/08/how-much-should-google-worry-about-chatgpt/)|blockcast\.it|2023\-02\-08|关于Google搜索的商业本质，ChatGPT可能**对搜索带来的冲击和变化**的分析。|⭐⭐⭐|❗❗||
+|[张俊林：ChatGPT会成为下一代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490)|张俊林|2022\-12\-06|知名深度学习Blog作者出品的关于ChatGPT技术以及**对搜索影响**的介绍。|⭐⭐⭐|❗❗||
+|[ChatGPT 会取代人的哪些工作？哪些人群的职业规划需要转变？](https://www.zhihu.com/question/582809884/answer/2883146417)|知乎|2023\-02\-08|关于ChatGPT对**各行业工作**造成的**影响**的讨论。|⭐⭐|❗||
+|[ChatGPT可能马上取代你！这是它能做的十个工作](https://mp.weixin.qq.com/s?__biz=MjM5OTAzMjc4MA==&mid=2650509456&idx=2&sn=e0935a504b6680fe522a98022325353a&chksm=bece923389b91b258dbe0b6ed946682d11db159f0d4fa72a82b70bc88774f5aa76ba859bb535&scene=132#wechat_redirect)|华尔街见闻|2023\-02\-06|媒体网站 Insider 在与专家交谈和进行研究后，整理了一份被人工智能技术**取代风险**最高的**工作类型清单**。|⭐⭐|❗||
+|[ChatGPT 爆火，谷歌投资其竞品公司，谷歌创始人亲自下场改代码，这场 AI 风暴对巨头们有何冲击？](https://www.zhihu.com/question/582114806)|知乎|2023\-02\-05|ChatGPT的爆火，引起**科技巨头**们的担忧，这项技术会引领下一项**技术革命**吗？会对他们发展产生怎样的影响？|⭐⭐|❗||
+|[普通用户玩不起的GPT\-3 API，已在300多个应用中部署了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650811718&idx=4&sn=f12a34c9b0b90f0f8909e8750f632c8e&chksm=84e5e938b392602e972b7e0d6fc6dab2bdff991b72c84a738947d9c5bf10b2a7ece73dc2b623&token=1087000475&lang=zh_CN&scene=21#wechat_redirect)|机器之心公众号|2021\-03\-26|早期对于**GPT3**的**应用场景**的介绍，可供参考。|⭐⭐|❗||
 
 ## 行业应用与探索
 |资料链接|来源|发布时间点|内容概述|整体推荐指数|技术难度指数|备注|
