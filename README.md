@@ -11,7 +11,7 @@
 >主观评估，仅供参考~
 
 ## 技术原理
-
+>关注ChatGPT背后的技术方案、实现细节。
 
 |资料链接|来源|发布时间点|内容概述|整体推荐指数|技术难度指数|备注|
 | :-----| :-----| :-----| :-----| :-----| :-----| :-----|
@@ -33,6 +33,8 @@
 |[从零谈ChatGPT相关技术](https://mp.weixin.qq.com/s/6zwPdcoaFCEGJXelmJkIJg)|AINLP|2023\-01\-15|介绍了从**语言模型一直到ChatGPT**发展路线中的**关键技术点。**|⭐|❗❗❗||
 
 ## 技术迭代与追踪
+>关注以ChatGPT为代表的大语言模型的发展历程，持续追踪前沿的技术进展。
+
 |资料链接|来源|发布时间点|内容概述|整体推荐指数|技术难度指数|备注|
 | :-----| :-----| :-----| :-----| :-----| :-----| :-----|
 |[万字拆解！追溯ChatGPT各项能力的起源](https://mp.weixin.qq.com/s/VYv8BRgGnp9ZTuXxaSuFwg)|符尧|2022\-12\-20|业内研究者符尧出品的关于**ChatGPT能力起源**的博客，讲解很清晰，对于关注技术的同学推荐阅读。|⭐⭐⭐⭐⭐|❗❗❗||
@@ -56,6 +58,8 @@
 |[无需人工标注，自生成指令框架打破ChatGPT等LLM的成本瓶颈](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650864680&idx=3&sn=e658a9108dbb7ab3d3b41d77185363a6&chksm=84e53856b392b1400a8582b058d56b383bb48fa57811858f95059077b577512836873ba4ec6d&token=1087000475&lang=zh_CN&scene=21#wechat_redirect)|机器之心公众号|2022\-12\-28|介绍了学术界的一个研究成果：**SELF\-INSTRUCT**，提供了一种几乎不需要人工标注的方法，实现了预训练语言模型与指令对齐。可以作为**减低模型训练成本**的一个参考。|⭐⭐|❗❗❗||
 
 ## 行业趋势
+>ChatGPT的经济成本、商业逻辑，对不同行业会带来怎样的冲击？
+
 |资料链接|来源|发布时间点|内容概述|整体推荐指数|技术难度指数|备注|
 | :-----| :-----| :-----| :-----| :-----| :-----| :-----|
 |[万字长文，AI产品经理视角的ChatGPT全解析](https://mp.weixin.qq.com/s/InqfLtzX8F5bQnEwOp3vaA)|做产品的马丁|2023\-02\-11|一个AI产品经理出品的**ChatGPT深度解析文章**，包括技术原理、应用场景趋势的分析，以及从**AI产品经理视角的应对和思考**。|⭐⭐⭐⭐⭐|❗❗||
@@ -71,6 +75,8 @@
 |[普通用户玩不起的GPT\-3 API，已在300多个应用中部署了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650811718&idx=4&sn=f12a34c9b0b90f0f8909e8750f632c8e&chksm=84e5e938b392602e972b7e0d6fc6dab2bdff991b72c84a738947d9c5bf10b2a7ece73dc2b623&token=1087000475&lang=zh_CN&scene=21#wechat_redirect)|机器之心公众号|2021\-03\-26|早期对于**GPT3**的**应用场景**的介绍，可供参考。|⭐⭐|❗||
 
 ## 行业应用与探索
+>关注ChatGPT的应用方向探索，其对搜索引擎等方向可能带来巨大变革。
+
 |资料链接|来源|发布时间点|内容概述|整体推荐指数|技术难度指数|备注|
 | :-----| :-----| :-----| :-----| :-----| :-----| :-----|
 | [58AI\-lab: ChatGPT应用思考](https://mp.weixin.qq.com/s/ldRCykw7jvuIusmsk7QhKQ) | 58AIlab公众号 | 2023\-02\-21 | **58同城AI lab**发表的文章，介绍了在多个**实际业务场景**中使用ChatGPT来优化业务的经验，也与微调模型的方法进行了**对比**，有一定的参考价值。 | ⭐⭐⭐⭐ | ❗❗ | |
@@ -90,15 +96,17 @@
 | [爆火的ChatGPT太强了！写代码、改bug，网友：可取代Stack Overflow了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650862824&idx=1&sn=dcd398c0ee07bd879be4981e8b181fb2&chksm=84e53096b392b980003852d1ecddb3ab7de3821549d0743bc37e7622ff4ba972cb553e22e240&scene=21#wechat_redirect) | 机器之心公众号 | 2022\-12\-05 | ChatGPT 具备与**编程相关**的基础知识，可以帮你写代码，还能修改代码中bug。 | ⭐⭐⭐ | ❗ | |
 
 ## 行业规范与法律法规
+
 |资料链接|来源|发布时间点|内容概述|整体推荐指数|技术难度指数|备注|
 | :-----| :-----| :-----| :-----| :-----| :-----| :-----|
 | [ChatGPT内容商业使用的法律风险及应对](https://mp.weixin.qq.com/s/8fzvmnyhEbIwWVTAVm8WWA) | 天元律师事务所 | 2023\-02\-13 | 对于**国内公司**而言，是否可以使用ChatGPT作为生产力工具，这过程中又存在哪些**法律风险**，本文中予以解读及提示。 | ⭐⭐⭐⭐ | ❗❗ | |
 | [ChatGPT让Nature一周发两文探讨：学术圈使用不可避免，是时候明确使用规范](https://mp.weixin.qq.com/s/lBltp0oi2dvVVF6uyiKw2w) | Nature |2023\-02\-11 | **Nature**发布的关于ChatGPT的**使用风险**和**规范**的建议。 | ⭐⭐⭐ | ❗ | |
 
 ## openAI发展思考
+>为什么openAI能够抢占先机，在google之前掀起通用人工智能的热潮，其背后的原因是什么？
+
 |资料链接|来源|发布时间点|内容概述|整体推荐指数|技术难度指数|备注|
 | :-----| :-----| :-----| :-----| :-----| :-----| :-----|
-| [ChatGPT\-team\-background\-research\-report\.pdf](https://horizonrobotics.feishu.cn/file/NBQEbUKgSoqT0sxheAxcl5cynWe) | AMiner、智谱研究 | 2023\-02 | 关于openAI **ChatGPT  团队成员**的详细**研究报告**，从职位分工、年龄分布、教育背景、人员流动、华人成员、成员贡献等维度进行深入分析。 | ⭐⭐⭐⭐ | ❗ | |
 | [OpenAI 何以掀翻 Google 布局多年的AI大棋？](https://mp.weixin.qq.com/s/qWQ6xVfQVEOJriYRVFWCrQ) | 出门问问李志飞 | 2023\-02\-08 | 关于**OpenAI**与**Google**今年的技术布局，Google错失的关键节点以及OpenAI成功原因的深入思考。 | ⭐⭐⭐⭐ | ❗❗ | |
 | [为什么说openai的ceo是下一代的商业领袖](https://mp.weixin.qq.com/s/SA1LKzoZoivbb76UqwZ5VQ) | 做AI做的事儿公众号 | 2023\-02\-03 | 关于OpenAI的CEO **Sam Altman** 的个人人生经历和观点输出的深入介绍。 | ⭐⭐⭐ | ❗❗ | |
 | [OpenAI CEO谈GPT\-4：今年发不发不确定，我们没有AGI，或许让大家失望](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650866346&idx=4&sn=d1a44330317ba6b6b0a1da957b14c189&chksm=84e4c6d4b3934fc295aca6f2f15d9cbb0dc6fcfed5c135fec30c4e2737380c44349caad4fe7d&token=1505777678&lang=zh_CN&scene=21#wechat_redirect) | The Verge | 2023\-01\-19 | 在最近的一次采访中，OpenAI 的 CEO Sam Altman 谈到关于 **GPT\-4** 的发布问题时，明确**否认了网传的发布时间**。 | ⭐⭐⭐ | ❗❗ | |
@@ -108,6 +116,8 @@
 | [OpenAI：马斯克发起10亿美元非营利AI研究项目](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=401181797&idx=4&sn=32850f66223a4b184c1f0d2bfa84b111&chksm=0d0c481b3a7bc10d27b16b6c0573b4532032dbb8897e3986cb130a852caf6f8525796fe155a6&token=1087000475&lang=zh_CN&scene=21#wechat_redirect) | Popsci | 2015\-12\-12 | OpenAI早期的**发展目标**和**研究方向**。 | ⭐⭐ | ❗ | |
 
 ## 业界跟进-同类产品信息
+>ChatGPT对国内外的科技企业带来巨大的心灵冲击，关注业界的跟进节奏、产品信息。
+
 |资料链接|来源|发布时间点|内容概述|整体推荐指数|技术难度指数|备注|
 | :-----| :-----| :-----| :-----| :-----| :-----| :-----|
 | [颠覆历史！「ChatGPT搜索引擎」发布，微软市值一夜飙涨5450亿](https://mp.weixin.qq.com/s/03EDC_Vl8SAM52oJvkX5SA) | 新智元 | 2023\-02\-08 | 微软Bing、Google的Bard、百度的文心一言。ChatGPT将给**搜索引擎**带来**巨大变革**。 | ⭐⭐⭐⭐ | ❗ | |
