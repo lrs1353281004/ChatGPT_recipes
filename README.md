@@ -134,7 +134,8 @@
 | :-----| :-----| :-----| :-----| :-----| :-----|
 | [颠覆历史！「ChatGPT搜索引擎」发布，微软市值一夜飙涨5450亿](https://mp.weixin.qq.com/s/03EDC_Vl8SAM52oJvkX5SA) | 新智元 | 2023\-02\-08 | 微软Bing、Google的Bard、百度的文心一言。ChatGPT将给**搜索引擎**带来**巨大变革**。 | ⭐⭐⭐⭐ | ❗ | 
 | [挑战ChatGPT，谷歌正式发布Bard，CEO亲自下场邀请测试](https://mp.weixin.qq.com/s/GUlsUH3i0h8x675RqB5-Dw) | 机器之心公众号 | 2023\-02\-07 | 为应对ChatGPT带来的巨大冲击，谷歌发布下一代对话AI系统**Bard**并邀请测试。 | ⭐⭐⭐⭐ | ❗ | 
-| [ChatGPT还在2G冲浪？新模型「youChat」：我已能够解说2022世界杯](https://mp.weixin.qq.com/s/HQDfdgtDhRvSWSdiPQEPcg) | 机器之心公众号 | 2022\-12\-24 | 搜索引擎**You\.com** 公司 发布**youChat**，其具有与 ChatGPT 类似的功能，用户可以在搜索引擎的「Chat」选项栏进行对话。 | ⭐⭐⭐⭐ | ❗ | 
+| [ChatGPT还在2G冲浪？新模型「youChat」：我已能够解说2022世界杯](https://mp.weixin.qq.com/s/HQDfdgtDhRvSWSdiPQEPcg) | 机器之心公众号 | 2022\-12\-24 | 搜索引擎**You\.com** 公司 发布**youChat**，其具有与 ChatGPT 类似的功能，用户可以在搜索引擎的「Chat」选项栏进行对话。 | ⭐⭐⭐⭐ | ❗ ||
+|[立即体验！直接可用的中文版ChatGPT来了](https://mp.weixin.qq.com/s/uV4rjy3aBaHLnT5RsLqbZA)|机器之心公众号|2023-02-28|秘塔加入了打造中国版 ChatGPT 的战局，推出了一款新产品 ——「对话写作猫」，是目前首个可以直接使用的国产自研版本。可以免费体验。https://xiezuocat.com/chat |⭐⭐⭐|❗||
 | [小冰CEO李笛：小冰链不是中国版ChatGPT](https://mp.weixin.qq.com/s/ErujYGRmvsfGSttkjCHukQ) | 新智元公众号 | 2023\-02\-21 | 小冰推出的**小冰链**，和ChatGPT的核心区别：<br> 1. 小冰链的**数据来源**是实时的，而ChatGPT是从训练数据中总结的；<br> 2. 小冰链能展现**逻辑思维过程**，更透明、可观测，而ChatGPT完全是个黑盒子；<br> 3. 最本质的区别是，小冰链会自己进行**下一步的行动**，比如上网搜索，而ChatGPT只是对话生成，并没有行动。 | ⭐⭐⭐| ❗❗ | 
 | [复旦团队发布国内首个类 ChatGPT 模型 MOSS，将为国内大语言模型的探索和应用带来哪些影响?](https://www.zhihu.com/question/585248111/answer/2903113992) | 知乎 | 2023\-02\-21 | 国内第一个对话式大型语言模型MOSS已由复旦大学**邱锡鹏**教授团队发布至公开平台（[https://moss\.fastnlp\.top/](https://link.zhihu.com/?target=https%3A//moss.fastnlp.top/)），邀公众参与内测。后续有**开源**代码和模型参数的计划，值得关注。（ps:由于访问超负荷，目前无法体验。） | ⭐⭐⭐ | ❗ | 
 | [昆仑万维CEO方汉：ChatGPT的开源来得有多快？](https://mp.weixin.qq.com/s/hGyJlwUGSO9llWAP30FfQQ) | 昆仑万维 | 2023\-02\-13 | **昆仑万维CEO**方汉的访谈记录，提及了对ChatGPT的看法，昆仑万维在AIGC的积累，宣布将与奇点智源合作，在今年内发布**中国版类ChatGPT代码开源**，防止大公司技术垄断。 | ⭐⭐⭐ | ❗ | 
