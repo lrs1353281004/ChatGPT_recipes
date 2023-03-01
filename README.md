@@ -48,6 +48,7 @@
 |资料链接|来源|发布时间点|内容概述|整体推荐指数|技术难度指数|
 | :-----| :-----| :-----| :-----| :-----| :-----|
 |[万字拆解！追溯ChatGPT各项能力的起源](https://mp.weixin.qq.com/s/VYv8BRgGnp9ZTuXxaSuFwg)|符尧|2022\-12\-20|业内研究者符尧出品的关于**ChatGPT能力起源**的博客，讲解很清晰，对于关注技术的同学推荐阅读。|⭐⭐⭐⭐⭐|❗❗❗|
+|[超越ChatGPT：大模型的智能极限](https://mp.weixin.qq.com/s/PteNTHckNAP1iVq10JuONQ)|符尧|2023-03-01|作者以终为始分析了大模型的智能极限及其演进维度。不同于刻舟求剑式只追求复现ChatGPT的经典互联网产品思维，而是指出了OpenAI组织架构和尖端人才密度的重要性，更重要的是，分享了模型演化与产品迭代及其未来，思考了如何把最深刻、最困难的问题，用最创新的方法来解决。|⭐⭐⭐⭐|❗❗|
 |[开源方案复现ChatGPT流程！1\.62GB显存即可体验，单机训练提速7\.73倍](https://mp.weixin.qq.com/s/j8gvD_4ViRE4WQaQlcnmrQ)|机器之心公众号|2023\-02\-15|**Colossal\-AI** 的**开源项目**介绍，首个开源低成本**复现 ChatGPT** 完整流程。Colossal\-AI 已收获开源社区 GitHub Star 近万颗。该项目的主要亮点是提供更低成本、更高效率的**训练**、**部署**方案。|⭐⭐⭐⭐|❗❗❗|
 |[ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A)|符尧|2022\-12\-29|业内研究者符尧出品的关于**ChatGPT**的出现会对**NLP范式**造成什么影响的分析。|⭐⭐⭐⭐|❗❗❗|
 |[ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)|Github|2022\-12\-12|**ChatGPT 中文调教指南**。各种场景使用指南。学习怎么让它听你的话。|⭐⭐⭐⭐|❗❗|
