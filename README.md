@@ -52,6 +52,7 @@
 |[开源方案复现ChatGPT流程！1\.62GB显存即可体验，单机训练提速7\.73倍](https://mp.weixin.qq.com/s/j8gvD_4ViRE4WQaQlcnmrQ)|机器之心公众号|2023\-02\-15|**Colossal\-AI** 的**开源项目**介绍，首个开源低成本**复现 ChatGPT** 完整流程。Colossal\-AI 已收获开源社区 GitHub Star 近万颗。该项目的主要亮点是提供更低成本、更高效率的**训练**、**部署**方案。|⭐⭐⭐⭐|❗❗❗|
 |[ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A)|符尧|2022\-12\-29|业内研究者符尧出品的关于**ChatGPT**的出现会对**NLP范式**造成什么影响的分析。|⭐⭐⭐⭐|❗❗❗|
 |[ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)|Github|2022\-12\-12|**ChatGPT 中文调教指南**。各种场景使用指南。学习怎么让它听你的话。|⭐⭐⭐⭐|❗❗|
+|[Meta开源的ChatGPT平替到底好不好用？测试结果、加料改装方法已出炉，2天5.2k星](https://mp.weixin.qq.com/s/kImwfWWtXMmEDVOhJZ4dJg)|机器之心公众号|2023-03-05|1)Meta 开源的大模型系列LLaMA 评测出炉，对比结果显示，和 ChatGPT 还有一些差距。2)初创公司 Nebuly AI 开源了 RLHF 版 LLaMA（ChatLLaMA）的训练方法。|⭐⭐⭐|❗||
 |[单卡就能跑的大模型等效GPT-3！Meta发布大语言模型LLaMA](https://mp.weixin.qq.com/s/PEc12gEzIgv2RKxfj57FOA)|量子位公众号|2023\-02\-25|Meta一次性发布四种尺寸的大语言模型**LLaMA**：7B、13B、33B和65B，模型均开源，可以进行申请。|⭐⭐⭐|❗||
 |[万字长文解析！复现和使用GPT\-3/ChatGPT，你所应该知道的](https://mp.weixin.qq.com/s/ILpbRRNP10Ef1z3lb2CqmA)|PaperWeekly公众号|2023\-02\-19|业内技术人士杨靖锋基于一系列大语言模型论文进行了归纳总结，给出了关于**复现**GPT\-3系列模型与**微调**相对小体量模型的选择的个人思考。|⭐⭐⭐|❗❗|
 |[追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ)|李rumor|2023\-02\-19|业内技术人士rumor的个人思考，关于**复现ChatGPT的难点与平替方案**。|⭐⭐⭐|❗❗|
