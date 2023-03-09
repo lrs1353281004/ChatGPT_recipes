@@ -100,6 +100,8 @@
 | [今天，微软重新发明搜索引擎：首款ChatGPT搜索来了](https://www.jiqizhixin.com/articles/2023-02-08) | 机器之心公众号 | 2023\-02\-08 | 通过与 ChatGPT 发明者 OpenAI 合作，**微软**给自己的**搜索引擎**加入了先进的 AI 对话模型，以支持**全新版本**的**必应（Bing）** 和 Edge。 | ⭐⭐⭐⭐ | ❗❗ | 
 | [ChatGPT版搜索引擎登场](https://mp.weixin.qq.com/s/MRmgIyw_SQNi9nNHsRtyfg) | 智东西公众号 | 2023\-02\-08 | 关于微软推出的**新Bing**搜索引擎的**功能特性**及**亮点**的详细介绍。 | ⭐⭐⭐⭐ | ❗❗ | 
 | [ChatGPT讲故事，DALLE\-2负责画出来，两AI合作出绘本](https://www.jiqizhixin.com/articles/2022-12-12-2) | 机器之心公众号 | 2022\-12\-10 | 来自斯坦福大学计算机科学系的博士生 Eric Zelikman 先用 ChatGPT 写了儿童故事，然后让之前火了大半年的 DALLE\-2 将其画了出来。初步尝试了用两个 **AI 合作**做出一本绘本的实验。 | ⭐⭐⭐⭐ | ❗ | 
+|[Prompt Engineering全面自动化：LeCun看了沉默，ChatGPT看了直呼内行](https://mp.weixin.qq.com/s/aj8Ls463jpF92ssn6Acwzg)|机器之心公众号|2023-03-08|jina.ai 发布的 promptperfect，帮助你生成可以更好让机器执行任务的prompt，包括语言模型、以及文生图系列模型（stable diffusion）等。|⭐⭐⭐|❗|
+|[ChatPDF也来了！一键上传文件即可解读，复制粘贴都省了](https://mp.weixin.qq.com/s/XINHbYX-K6v0J7Zu3W3swQ)|量子位公众号|2023-03-07|基于ChatGPT的衍生应用ChatPDF,ChatPDF的操作很简单，把自己的PDF上传到页面上，它就会开始加载分析，然后切换到提问界面。|⭐⭐⭐|❗|
 | [别只骂谷歌Bard了，ChatGPT加持的微软New Bing也错误频出](https://mp.weixin.qq.com/s/euMIkTWOoqRrbL8rZ8-KIA) | 机器之心公众号 | 2023\-02\-13 | ChatGPT并非完美，ChatGPT加持的微软**New Bing**在评测中也暴露出了很多**问题**，体现了其**能力边界**，值得关注。 | ⭐⭐⭐ | ❗ | 
 | [ChatGPT竟有9岁小孩心智？斯坦福教授逆天发现](https://mp.weixin.qq.com/s/cIs6BV0XOVtq_HeXoNmJzQ) | 新智元公众号 | 2023\-02\-12 | 一位斯坦福教授在上周发布的论文中证实通过实验得出**GPT\-3\.5**（davinci\-003）和**GPT\-3**（2022年1月新版，davinci\-002）具有心智的理论。 | ⭐⭐⭐ | ❗❗ | 
 | [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/izeryOoUI8qe4jjBypk2Rw) | 转载自量子位 | 2023\-02\-11 | 一个华人用户贴出的对**新版必应**（引入ChatGPT）的一个测试case，通过引入**特殊的提示**，似乎使其内部的**配置泄露**了。之前也有过不少大家通过配置一些特殊的提示，让ChatGPT突破其默认设置的安全边界的案例。 | ⭐⭐⭐ | ❗❗ ❗| 
