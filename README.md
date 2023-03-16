@@ -139,6 +139,7 @@
 
 |资料链接|来源|发布时间点|内容概述|整体推荐指数|技术难度指数|
 | :-----| :-----| :-----| :-----| :-----| :-----|
+|[GPT-4王者加冕！读图做题性能炸天，凭自己就能考上斯坦福](https://mp.weixin.qq.com/s/MN35PBHJEMRCJjyTQL5ggA)|新智元|2023-03-15|OpenAI的GPT-4在万众瞩目中闪亮登场，支持多模态理解。整体能力相比GPT3.5 大幅跃升。|⭐⭐⭐⭐ | ❗ | 
 | [颠覆历史！「ChatGPT搜索引擎」发布，微软市值一夜飙涨5450亿](https://mp.weixin.qq.com/s/03EDC_Vl8SAM52oJvkX5SA) | 新智元 | 2023\-02\-08 | 微软Bing、Google的Bard、百度的文心一言。ChatGPT将给**搜索引擎**带来**巨大变革**。 | ⭐⭐⭐⭐ | ❗ | 
 | [挑战ChatGPT，谷歌正式发布Bard，CEO亲自下场邀请测试](https://mp.weixin.qq.com/s/GUlsUH3i0h8x675RqB5-Dw) | 机器之心公众号 | 2023\-02\-07 | 为应对ChatGPT带来的巨大冲击，谷歌发布下一代对话AI系统**Bard**并邀请测试。 | ⭐⭐⭐⭐ | ❗ | 
 | [ChatGPT还在2G冲浪？新模型「youChat」：我已能够解说2022世界杯](https://mp.weixin.qq.com/s/HQDfdgtDhRvSWSdiPQEPcg) | 机器之心公众号 | 2022\-12\-24 | 搜索引擎**You\.com** 公司 发布**youChat**，其具有与 ChatGPT 类似的功能，用户可以在搜索引擎的「Chat」选项栏进行对话。 | ⭐⭐⭐⭐ | ❗ ||
