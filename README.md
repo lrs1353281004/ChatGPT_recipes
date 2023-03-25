@@ -127,6 +127,7 @@
 
 |资料链接|来源|发布时间点|内容概述|整体推荐指数|技术难度指数|
 | :-----| :-----| :-----| :-----| :-----| :-----|
+|[黄仁勋与OpenAI首席科学家Ilya Sutskever的炉边谈话](https://www.bilibili.com/video/BV1Tc411L7UA/)|b站（转发）|2023-03-23|Nvidia CEO 黄仁勋 与 Open AI首席科学家 Ilya Sutskever 的最新谈话。谈话涉及openAI的技术发展历程，包含AI近10年飞速发展历程背后的技术演进的深入理解，对通用人工智能未来发展方向的展望等。|⭐⭐⭐⭐|❗❗|
 | [OpenAI 何以掀翻 Google 布局多年的AI大棋？](https://mp.weixin.qq.com/s/qWQ6xVfQVEOJriYRVFWCrQ) | 出门问问李志飞 | 2023\-02\-08 | 关于**OpenAI**与**Google**今年的技术布局，Google错失的关键节点以及OpenAI成功原因的深入思考。 | ⭐⭐⭐⭐ | ❗❗ | 
 | [为什么说openai的ceo是下一代的商业领袖](https://mp.weixin.qq.com/s/SA1LKzoZoivbb76UqwZ5VQ) | 做AI做的事儿公众号 | 2023\-02\-03 | 关于OpenAI的CEO **Sam Altman** 的个人人生经历和观点输出的深入介绍。 | ⭐⭐⭐ | ❗❗ | 
 | [OpenAI CEO谈GPT\-4：今年发不发不确定，我们没有AGI，或许让大家失望](https://www.jiqizhixin.com/articles/2023-01-19-3) | The Verge | 2023\-01\-19 | 在最近的一次采访中，OpenAI 的 CEO Sam Altman 谈到关于 **GPT\-4** 的发布问题时，明确**否认了网传的发布时间**。 | ⭐⭐⭐ | ❗❗ | 
