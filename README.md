@@ -140,6 +140,7 @@
 
 |资料链接|来源|发布时间点|内容概述|整体推荐指数|技术难度指数|
 | :-----| :-----| :-----| :-----| :-----| :-----|
+|[ChatGPT王炸更新！能联网获取新知识，可与5000+个应用交互，网友：太疯狂了](https://mp.weixin.qq.com/s/JM0BkkBg-kho36WQwRNRPQ)|量子位公众号|2023-03-24|ChatGPT的“应用商店”来了。 OpenAI刚刚宣布推出插件功能，赋予ChatGPT使用工具、联网、运行计算的能力。例如在官方演示中，ChatGPT一旦接入数学知识引擎Wolfram Alpha，就再也不用担心数值计算不精准的问题。|⭐⭐⭐⭐ | ❗ | 
 |[GPT-4王者加冕！读图做题性能炸天，凭自己就能考上斯坦福](https://mp.weixin.qq.com/s/MN35PBHJEMRCJjyTQL5ggA)|新智元|2023-03-15|OpenAI的GPT-4在万众瞩目中闪亮登场，支持多模态理解。整体能力相比GPT3.5 大幅跃升。|⭐⭐⭐⭐ | ❗ | 
 | [颠覆历史！「ChatGPT搜索引擎」发布，微软市值一夜飙涨5450亿](https://mp.weixin.qq.com/s/03EDC_Vl8SAM52oJvkX5SA) | 新智元 | 2023\-02\-08 | 微软Bing、Google的Bard、百度的文心一言。ChatGPT将给**搜索引擎**带来**巨大变革**。 | ⭐⭐⭐⭐ | ❗ | 
 | [挑战ChatGPT，谷歌正式发布Bard，CEO亲自下场邀请测试](https://mp.weixin.qq.com/s/GUlsUH3i0h8x675RqB5-Dw) | 机器之心公众号 | 2023\-02\-07 | 为应对ChatGPT带来的巨大冲击，谷歌发布下一代对话AI系统**Bard**并邀请测试。 | ⭐⭐⭐⭐ | ❗ | 
