@@ -77,6 +77,7 @@
 
 |资料链接|来源|发布时间点|内容概述|整体推荐指数|技术难度指数|
 | :-----| :-----| :-----| :-----| :-----| :-----|
+|[The Age of AI：拾象大模型及OpenAI投资思考](https://mp.weixin.qq.com/s/AxX-Q7njegNTAxMkYFwsfA)|拾象|2023-03-31|本研究中，探讨了一系列关键问题：• 什么是大模型？• 从基础模型到 Killer Apps，价值链如何被分配？• 什么是 AI Native 应用？• LLM 浪潮下，科技巨头们是如何和 LLM 做结合的？• OpenAI 为什么能够成为 LLM 最强王者？|⭐⭐⭐⭐⭐|❗❗|
 |[万字长文，AI产品经理视角的ChatGPT全解析](https://mp.weixin.qq.com/s/InqfLtzX8F5bQnEwOp3vaA)|做产品的马丁|2023\-02\-11|一个AI产品经理出品的**ChatGPT深度解析文章**，包括技术原理、应用场景趋势的分析，以及从**AI产品经理视角的应对和思考**。|⭐⭐⭐⭐⭐|❗❗|
 |[甲小姐对话李志飞：聊聊这场疯狂的AI大模型炼丹大会 甲子光年](https://mp.weixin.qq.com/s/xv78jRedygvUPOphMc00pw)|甲子光年|2023-03-10|甲子光年对出门问问CEO李志飞的深度访谈，对于AI大模型技术演进、应用场景、AGI的未来等话题表述了自己的独到见解。|⭐⭐⭐⭐|❗❗❗|
 |[OpenAI逆天发布ChatGPT API！100万个单词才18元，价格打骨折](https://mp.weixin.qq.com/s/Ei0xFOBS49MulHk0rQE-7w)|新智元|2023-03-02|openAI 正式开放ChatGPT API，每输出100万个单词，价格才2.7美元（约18元人民币），比之前的GPT-3.5，成本直接降低90%。|⭐⭐⭐⭐|❗|
